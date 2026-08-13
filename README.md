@@ -32,20 +32,6 @@ This is a FiveM resource designed to implement a Burger Shot establishment withi
       ensure rd_burgershot
       ```
 
-## PROJECT STRUCTURE
-
-```
-rd_burgershot/
-├── client/                # Client-side scripts
-│   ├── cl_burgershot.lua  # Main client logic
-│   └── cl_consumables.lua # Consumables handling
-├── server/                # Server-side scripts
-│   └── sv_burgershot.lua  # Main server logic
-├── config.lua             # Resource configuration
-├── fxmanifest.lua         # Resource manifest
-└── items.md               # Item definitions and documentation
-```
-
 ## CONTRIBUTING
 
 - WE WELCOME CONTRIBUTIONS! IF YOU HAVE SUGGESTIONS FOR IMPROVEMENTS, FEATURE REQUESTS, OR BUG REPORTS, PLEASE OPEN AN ISSUE OR SUBMIT A PULL REQUEST ON OUR GITHUB REPOSITORY.
